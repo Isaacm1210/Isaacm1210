@@ -1,5 +1,9 @@
-Hi My Name is Isaac (Is-haq) M'Hamed!
-===========
+# Hi My Name is Isaac (Is-haq) M'Hamed!
+
+## Aspiring Full Stack Developer
+
+Currently enrolled in SAITS Sofware Development Program where I have had the opportunity to develope and hone my skills. Equiped with solid foundation of tools to assist in solving any problem I encounter. I am extremely enthusiastic about problem solving and to contuously grow and learn, futher expanding my knowledge and tool belt. High attention to detail and I wont give up until the problem is solved. I am determined to become a vital asset....
+
 <!--
 **Isaacm1210/Isaacm1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
