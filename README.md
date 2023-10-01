@@ -56,4 +56,4 @@ Currently enrolled in SAIT's Software Development Program where I have had the o
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Isaacm1210"><img src="https://github-readme-stats.vercel.app/api?username=Isaacm1210&show_icons=true&hide=prs,issues,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Isaacm1210's GitHub stats" /></a>
+<a href="http://www.github.com/Isaacm1210"><img src="https://github-readme-stats.vercel.app/api?username=Isaacm1210&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Isaacm1210's GitHub stats" /></a>
