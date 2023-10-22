@@ -52,7 +52,7 @@ Currently enrolled in SAIT's Software Development Program where I have had the o
   </a>
 </p>
 
-<!--### Badges
+<!--
 
 <b>My GitHub Stats</b>
 
