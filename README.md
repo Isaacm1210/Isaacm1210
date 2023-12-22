@@ -30,8 +30,4 @@ Currently enrolled in SAIT's Software Development Program where I have had the o
   </a>
 </p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Isaacm1210"><img src="https://github-readme-stats.vercel.app/api?username=Isaacm1210&show_icons=true&hide=stars,issues,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="Isaacm1210's GitHub stats" /></a>
