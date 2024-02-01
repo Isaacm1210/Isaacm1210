@@ -1,11 +1,6 @@
 Hi 👋 My name is Isaac Mhamed
 =============================
 
-Full Stack Developer
---------------------
-
-Currently enrolled in SAIT's Software Development Program where I have had the opportunity to develop and hone my skills. I am extremely enthusiastic about problem solving and to continuously grow and learn, further expanding my knowledge and tool belt. Equipped with solid foundation of tools to assist in solving any problem I encounter. I am datamined to become a vital member of team working together to create solutions that will leave a strong positive impression on users and businesses. I enjoy a good challenge, learning new things and constructive criticism.
-
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [1210Mhamed@gmail.com](mailto:1210Mhamed@gmail.com)
 
